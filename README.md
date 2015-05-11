@@ -26,7 +26,7 @@ Das ist in keiner Weise eine "offizielle" Seite von der Deutschen Bahn.
 
 * [Kursbuchtabellensuche](http://kursbuch.bahn.de/hafas/kbview.exe/dn?rt=1&mainframe=search)
 * [Wagenskizzen](http://kursbuch.bahn.de/hafas-res/img/kbview/ContentPDFs/Wagenskizzen_2010_v2.pdf)
-* [Kartnematerial der Deutschen Bahn (PDF)](https://www.bahn.de/p/view/buchung/karten/streckennetz.shtml)
+* [Kartenmaterial der Deutschen Bahn (PDF)](https://www.bahn.de/p/view/buchung/karten/streckennetz.shtml)
 * [Persönliches Fahrplan](http://persoenlicherfahrplan.bahn.de/bin/pf/query-p2w.exe/dn)
 * [Zugradar](http://www.bahn.de/p/view/buchung/auskunft/zugradar.shtml)
 * [Live Auskunft](http://reiseauskunft.bahn.de/bin/query.exe/dn?sotRequest=1)
