@@ -48,9 +48,9 @@ Das ist in keiner Weise eine "offizielle" Seite von der Deutschen Bahn.
 * TODO: http://www.bahnseite.de/ (viele gute Infos)
 * TODO: http://grahnert.de/fernbahn/datenbank/
 * TODO: http://grahnert.de/fernbahn/datenbank/suche/
-* [db-fakedisplay](http://finalrewind.org/projects/db-fakedisplay/) (Abfahrttafel auf IRIS-Basis)
-* [Travel-Status-DE-DeutscheBahn](http://finalrewind.org/projects/Travel-Status-DE-DeutscheBahn/) (Perl-Interface fuer HAFAS)
-* [Travel-Status-DE-IRIS](http://finalrewind.org/projects/Travel-Status-DE-IRIS/) (Perl-IRIS-Interface)
+* [db-fakedisplay](http://finalrewind.org/projects/db-fakedisplay/) (Abfahrttafel auf dr Basis von IRIS [Web-Bahnhofstafel](https://iris.noncd.db.de/wbt/js/index.html?bhf=EE))
+* [Travel-Status-DE-DeutscheBahn](http://finalrewind.org/projects/Travel-Status-DE-DeutscheBahn/) (Perl-Interface für [bahn.de Bahnhofstafel](http://reiseauskunft.bahn.de/bin/bhftafel.exe/dn))
+* [Travel-Status-DE-IRIS](http://finalrewind.org/projects/Travel-Status-DE-IRIS/) (Perl-Interface für IRIS [Web-Bahnhofstafel](https://iris.noncd.db.de/wbt/js/index.html?bhf=EE))
 
 # Quellen
 
