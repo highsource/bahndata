@@ -36,6 +36,7 @@ Das ist in keiner Weise eine "offizielle" Seite von der Deutschen Bahn.
 # Sonstiges
 
 * [Bauarbeiten](http://bauarbeiten.bahn.de/)
+* [Swiss Public Transport API](http://transport.opendata.ch/)
 
 # Third-Party
 
