@@ -6,6 +6,12 @@ Die Informationen sind im Internet auffindbar, werden hier nur verlinkt.
 
 Das ist in keiner Weise eine "offizielle" Seite von der Deutschen Bahn.
 
+#  DB Open Data Portal
+
+To be launched on 5.11.2015
+
+* http://data.deutschebahn.com/
+
 # DB Station & Service AG
 
 * [Web-Bahnhofstafel](https://iris.noncd.db.de/wbt/js/index.html?bhf=EE)
@@ -52,6 +58,7 @@ Das ist in keiner Weise eine "offizielle" Seite von der Deutschen Bahn.
 * [db-fakedisplay](http://finalrewind.org/projects/db-fakedisplay/) (Abfahrttafel auf dr Basis von IRIS [Web-Bahnhofstafel](https://iris.noncd.db.de/wbt/js/index.html?bhf=EE))
 * [Travel-Status-DE-DeutscheBahn](http://finalrewind.org/projects/Travel-Status-DE-DeutscheBahn/) (Perl-Interface für [bahn.de Bahnhofstafel](http://reiseauskunft.bahn.de/bin/bhftafel.exe/dn))
 * [Travel-Status-DE-IRIS](http://finalrewind.org/projects/Travel-Status-DE-IRIS/) (Perl-Interface für IRIS [Web-Bahnhofstafel](https://iris.noncd.db.de/wbt/js/index.html?bhf=EE))
+* https://github.com/marcusschiesser/openbahn-api
 
 # Quellen
 
