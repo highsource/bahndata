@@ -74,6 +74,7 @@ To be launched on 5.11.2015
 
 * http://www.michaeldittrich.de/links/index.php
 * [Trassenpreisenauskunft](http://fahrweg.dbnetze.com/fahrweg-de/produkte/trassen/trassenpreise/trassenpreisauskunft_tpis.html)
+* http://www.reisezug-wagen.de/wagendatenbank/index.php
 
 # Links hinzufügen
 
